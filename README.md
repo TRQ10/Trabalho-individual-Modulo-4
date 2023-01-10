@@ -10,12 +10,19 @@ eu também levei em consideração o instrutor, o responsavel pelo aprendizado d
 2º Quais são os principais campos e tipos?
 
 ID - com o tipo INT (Um inteiro de tamanho normal)
+
 Nome - com o tipo VARCHAR (Uma sequência de caracteres de texto de tamanho a ser definido)
+
 Email -  com o tipo VARCHAR (Uma sequência de caracteres de texto de tamanho a ser definido)
+
 Valor_Hora - com o tipo INTEGER (Um grupo de tipos de dados)
+
 Data - com o tipo DATE (Responsável por armazenar uma hora ou data)
+
 Carga_Horária - com o timpo SMALLINT (Responsável por armazenar pequenos números inteiros)
+
 cpf - com o tipo CHAR (Uma sequência de caracteres de texto de tamanho fixo)
+
 preço = com o tipo DOUBLE (É um tipo númerico de base 2)
 
 3º Como essas entidades estão relacionadas?
