@@ -4,7 +4,7 @@ Perguntas a serem respondidas:
 
 1º Existem outras entidades além dessas três?
 
-R: Eu acredito que possuem mais relações em um curso além do aluno, turma e curso, nest diagrama
+R: Eu acredito que possuem mais relações em um curso além do aluno, turma e curso, neste diagrama
 eu também levei em consideração o instrutor, o responsavel pelo aprendizado da turma e as matriculas.
 
 2º Quais são os principais campos e tipos?
